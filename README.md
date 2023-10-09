@@ -1,2 +1,3 @@
 # Chemoocs
-Ce repository chemoocs je traiterai  mes différents exercices du mooc chemoocs
+Le repository chemoocs est dédiée au traitement des différentes activités du mooc Chemoocs disponible sur fun-mooc.fr
+
